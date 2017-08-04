@@ -30,7 +30,7 @@
   `cordova platform add browser`
 
 8. Run app
-  `npm start`  || `cordova run browser`
+  `cordova run browser`
 
 
 ## Street Cred
