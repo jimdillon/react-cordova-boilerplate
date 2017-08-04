@@ -17,16 +17,20 @@
 3. Install node v8.2.1
   `nvm install node v8.2.1`
 
-4. Move into repo and install cordova
+4. Move into repo
+  `cd [you cloned repo directory]`
+
+5. Install dependencies
+   `npm install`
+
+6. Install cordova
   `npm i -g cordova`
 
-5. Add cordova browser platform
+7. Add cordova browser platform
   `cordova platform add browser`
 
-6. Run app
-  `npm start`  || `cordova run broError: Could not find an installed version of Gradle either in Android Studio,
-or on your system to install the gradle wrapper. Please include gradle 
-in your path, or install Android Studiwser`
+8. Run app
+  `npm start`  || `cordova run browser`
 
 
 ## Street Cred
