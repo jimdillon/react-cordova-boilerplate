@@ -16,7 +16,9 @@
 
 3. Install node v8.2.1
   `nvm install node v8.2.1`
-
+  - Make sure you are using node v8.2.1
+  `nvm use v8.2.1`
+  
 4. Move into repo
   `cd [you cloned repo directory]`
 
