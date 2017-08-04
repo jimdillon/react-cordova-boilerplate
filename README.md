@@ -24,7 +24,9 @@
   `cordova platform add browser`
 
 6. Run app
-  `npm start`  || `cordova run browser`
+  `npm start`  || `cordova run broError: Could not find an installed version of Gradle either in Android Studio,
+or on your system to install the gradle wrapper. Please include gradle 
+in your path, or install Android Studiwser`
 
 
 ## Street Cred
@@ -41,4 +43,10 @@
   * Install JDK (8 or better)
   * Install Android Studio - https://developer.android.com/studio/install.html
   * Add SDK packages
+  * Add an emulator
+
+  ### If you run into this error on Fedora / RHEL install gradle via dnf
+  `Error: Could not find an installed version of Gradle either in Android Studio,
+or on your system to install the gradle wrapper. Please include gradle 
+in your path, or install Android Studio`
   
